@@ -3,7 +3,7 @@
 // carrito de compras 
 
 let cart= Array();
-let cart2 = ' ' + cart
+
 function additem(){
   cart.push(prompt('Agregue item'));
 
